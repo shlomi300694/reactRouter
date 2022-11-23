@@ -1,0 +1,67 @@
+.section{
+    background: rgb(15,45,37);
+    background: linear-gradient(180deg, rgba(15,45,37,1) 0%, rgba(15,45,37,1) 35%, rgba(255,255,255,1) 100%);
+    min-height: 550px;
+    
+}
+
+.hedear{
+    color: white;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.Top{
+    font-size: 3em;
+}
+
+.hedear p{
+    font-size: 1.0em;
+}
+
+.mainIn{
+    min-height: 60px;
+    margin-right: 20px;
+    min-width: 350px;
+    border-radius: 1px #008060;
+}
+
+.start {
+    background-color: #008060;
+    min-width: 150px;
+    min-height: 60px;
+    font-size: 1em;
+}
+
+.start :hover{
+    cursor: pointer;
+    background-color: #008060;
+
+}
+ 
+.down{
+    color: white;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 17px;
+    margin-top: 30px;
+}
+
+.pic{
+ max-width: 900px;
+ 
+}
+
+.pic img{
+    max-width: 70%;
+    max-height: 50%;
+    margin-top: 50px;
+    margin-left: 100px;
+
+}
+
+

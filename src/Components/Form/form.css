@@ -1,0 +1,37 @@
+.main{
+    background: rgba(15, 45, 37, 0.955);
+    background: linear-gradient(180deg, rgb(15, 45, 37) 0%, rgb(15, 45, 37) 35%, rgba(255, 255, 255, 0.142) 100%);
+}
+
+.mainForm{
+    border:2PX dashed rgb(231, 157, 157);
+}
+
+.labels{
+    min-width: 60%;
+    padding: 10px;
+    color: azure;
+    
+}
+
+.labels:hover{
+    color: blue;
+}
+
+input{
+    border-radius: 10px ;
+
+}
+
+input:hover{
+   cursor: pointer; 
+}
+
+
+
+.Submit:hover{
+    cursor: pointer; 
+    background-color: rgb(31, 197, 31);
+
+}
+
